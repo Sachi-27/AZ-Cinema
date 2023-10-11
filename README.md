@@ -6,22 +6,7 @@ Here, we've build a one stop user-friendly solution which will help the user by 
 ## Packages Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/)
 ```bash
-pip install python
-```
-```bash
-pip install requests
-```
-```bash
-pip install requests-html
-```
-```bash
-pip install bs4
-```
-```bash
-pip install selenium
-```
-```bash
-pip install django
+pip install requests, requests-html, bs4, selenium, django
 ```
 ## Database Creation
 We have scraped our data, from top 500 movies on IMDB worldwide, and details about it from different websites like Metacritic and Rotten Tomatoes.
